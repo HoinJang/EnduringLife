@@ -1,0 +1,7 @@
+0 idle
+1 walk
+2 akt  (±âº»)
+3 hit
+4 die
+5 skill
+6 dance
